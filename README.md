@@ -1,3 +1,3 @@
-[![Build Status](https://travis-ci.org/swimyoung/react-virtualized-list.svg?branch=master)](https://travis-ci.org/swimyoung/react-virtualized-list)
+imitate [well known react virtualized list library](https://github.com/bvaughn/react-window)
 
-# Working In Progress
+working page: https://swimyoung.github.io/react-virtualized-list/

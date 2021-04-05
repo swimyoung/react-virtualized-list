@@ -12,7 +12,7 @@
   "scripts": {
     "test": "jest",
     "report": "codecov",
-    "format": "prettier --write .",
+    "format": "prettier --write \"**/*.{json,js,ts,tsx}\"",
     "lint": "eslint .",
     "build:storybook": "build-storybook -o docs",
     "storybook": "start-storybook -p 6006"
